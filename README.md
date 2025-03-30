@@ -1,6 +1,6 @@
 # My-Portfolio-Website-
 
-I'm a Full Stack Web Developer 💻
+🚀 Full Stack Developer | Laravel | Cyber-Security 
 
 Languages:
 -HTML
@@ -20,6 +20,8 @@ Owasp | DevOps | Amazon Web Services
 ✅ Smooth Animations
 ✅ Debug
 ✅ Clean coding
+
+
 
 
 
